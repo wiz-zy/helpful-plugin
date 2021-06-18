@@ -1,0 +1,20 @@
+name: HelpfulPlugin
+version: ${project.version}
+main: com.blastbrean.helpfulplugin.Main
+api-version: 1.16
+commands:
+  broadcast:
+    description: Broadcast's a message!
+    usage: /<command> [optionalParam]
+  starve:
+    description: Starves user.
+    usage: /<command>
+  heal:
+    description: Heals user.
+    usage: /<command>
+  setHealth:
+    description: Sets health between 1-20 through specificed arguments.
+    usage: /<command> [optionalParam]
+  hunger:
+    description: Sets hunger between 1-20 through specificed arguments.
+    usage: /<command> [optionalParam]
