@@ -1,4 +1,4 @@
-# legendary-robot
+# HelpfulPlugin
 #### A Minecraft Spigot Plugin made for fun. Feel free to copy/pasta.
 ------
 Compatible with Spigot 1.1.6.5 and PaperSpigot | Both tested.
